@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Aluno
+comment1.params=
+comment1.target=Aluno()
+comment2.params=nota1
+comment2.target=void\ setNota1(float)
+comment3.params=nota2
+comment3.target=void\ setNota2(float)
+comment4.params=nota3
+comment4.target=void\ setNota3(float)
+comment5.params=nota4
+comment5.target=void\ setNota4(float)
+comment6.params=matricula
+comment6.target=void\ setMatricula(java.lang.String)
+comment7.params=
+comment7.target=float\ calculaMediaAluno()
+numComments=8

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FuncionarioTest
+comment1.params=
+comment1.target=void\ testeDeveRetornarValor()
+comment2.params=
+comment2.target=void\ testeNaoDeveRetornarValor()
+numComments=3

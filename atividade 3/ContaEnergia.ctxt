@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ContaEnergia
+comment1.params=quilowattsConsumidos
+comment1.target=void\ setQuilowattsConsumidos(int)
+comment2.params=
+comment2.target=int\ getQuilowattsConsumidos()
+comment3.params=
+comment3.target=float\ valorPagar()
+numComments=4

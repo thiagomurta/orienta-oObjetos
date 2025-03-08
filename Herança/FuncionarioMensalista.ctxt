@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FuncionarioMensalista
+comment1.params=salarioMes
+comment1.target=void\ setSalarioMes(float)
+comment2.params=
+comment2.target=float\ getSalarioMes()
+comment3.params=
+comment3.target=float\ getSalario()
+numComments=4

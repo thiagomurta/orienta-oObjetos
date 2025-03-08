@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Funcion\u00E1rio
+comment1.params=salario
+comment1.target=void\ setSalario(float)
+comment2.params=percAumento
+comment2.target=void\ setPercAumento(float)
+comment3.params=
+comment3.target=float\ getSalario()
+comment4.params=
+comment4.target=float\ calcularAumento()
+comment5.params=
+comment5.target=float\ calcularNovoSalario()
+numComments=6

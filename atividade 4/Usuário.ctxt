@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Usu\u00E1rio
+comment1.params=quilometros
+comment1.target=void\ setQuilometros(float)
+comment2.params=combustivelGasto
+comment2.target=void\ setCombustivelGasto(float)
+comment3.params=
+comment3.target=float\ mediaGasta()
+numComments=4

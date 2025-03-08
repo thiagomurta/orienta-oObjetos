@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=FuncionarioDiarista
+comment1.params=valorDia
+comment1.target=void\ setValorDia(float)
+comment2.params=quantidadeDias
+comment2.target=void\ setQuantidadeDias(int)
+comment3.params=valorHora
+comment3.target=void\ setValorHora(float)
+comment4.params=quantidadeHoras
+comment4.target=void\ setQuantidadeHoras(int)
+comment5.params=valorDia
+comment5.target=float\ getValorDia(float)
+comment6.params=
+comment6.target=int\ getQuantidadeDias()
+comment7.params=
+comment7.target=float\ getValorHora()
+comment8.params=
+comment8.target=int\ getQuantidadeHoras()
+comment9.params=
+comment9.target=float\ calculaSalario()
+numComments=10
